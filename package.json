@@ -67,7 +67,7 @@
     "camelcase": "^5.3.1",
     "camelcase-keys": "^6.2.2",
     "caniuse-lite": "^1.0.30001282",
-    "canvas": "^2.8.0",
+    "canvas": "^3.0.0",
     "caseless": "^0.12.0",
     "character-entities": "^1.2.4",
     "chalk": "^4.1.2",
